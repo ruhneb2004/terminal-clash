@@ -52,28 +52,45 @@ npm install -g terminal-clash
 
 # Run
 
-To start the choas: terminal-clash
-To escape with your life: terminal-clash sorry terminal Gods
+To start the chaos: `terminal-clash`  
+To escape with your life: `terminal-clash sorry terminal Gods`
 
 ### Project Documentation
 
+
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots
 
-![Screenshot1](Add screenshot 1 here with proper name)
-_Add caption explaining what this shows_
+<img width="436" height="296" alt="Screenshot 2025-08-02 at 3 03 37 AM" src="https://github.com/user-attachments/assets/bdb7f8a0-8fd2-4d32-8e51-30c0203e019e" />
+<img width="581" height="236" alt="Screenshot 2025-08-02 at 3 03 52 AM" src="https://github.com/user-attachments/assets/f724dbc6-7ae4-4ed1-a101-bd233eafb181" />
+<img width="597" height="89" alt="Screenshot 2025-08-02 at 3 04 18 AM" src="https://github.com/user-attachments/assets/75b60097-0c48-47a9-9536-16c2ef3600e1" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-_Add caption explaining what this shows_
+Use this commands wisely, so that you won't get hurt little one...
 
-![Screenshot3](Add screenshot 3 here with proper name)
-_Add caption explaining what this shows_
+<img width="916" height="585" alt="Screenshot 2025-08-02 at 3 04 54 AM" src="https://github.com/user-attachments/assets/b2f0c875-1e1b-441f-bde2-5f4814f7a8c0" />
+
+
+Insults and redirection, maybe that how life's been for you till now. But now your terminal is like that too!
+
+
+<img width="708" height="196" alt="Screenshot 2025-08-02 at 3 05 16 AM" src="https://github.com/user-attachments/assets/8382e97b-4bb6-4665-8c91-b45db9b02946" />
+
+
+Well more insults and misdirections, just what we want to deliever!
+
+
+<img width="597" height="89" alt="Screenshot 2025-08-02 at 3 04 18 AM" src="https://github.com/user-attachments/assets/f9209760-9d85-4119-96dc-291dba2baed9" />
+
+Maybe pleasing the gods of the terminal could get you back to your initial glory.
+
 
 # Diagrams
+<img width="415" height="488" alt="Screenshot 2025-08-02 at 3 20 10 AM" src="https://github.com/user-attachments/assets/0b67de69-c6de-4d08-952c-46bc1fe94f99" />
 
-![Workflow](Add your workflow/architecture diagram here)
-_Add caption explaining your workflow_
+terminal-clash hijacks your shell config (.zshrc or .bashrc) and overrides common commands with chaotic, mocking behavior. It backs up the original file so nothing’s permanent. To undo the madness, just run:
+terminal-clash sorry terminal Gods and your terminal is restored.
+
 
 Made with ❤️ at TinkerHub Useless Projects
 
