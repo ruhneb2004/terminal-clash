@@ -84,6 +84,9 @@ Well more insults and misdirections, just what we want to deliever!
 
 Maybe pleasing the gods of the terminal could get you back to your initial glory.
 
+# Videos
+[Youtube Video Link](https://youtu.be/fkapyMpRANc)
+
 
 # Diagrams
 <img width="415" height="488" alt="Screenshot 2025-08-02 at 3 20 10 AM" src="https://github.com/user-attachments/assets/0b67de69-c6de-4d08-952c-46bc1fe94f99" />
